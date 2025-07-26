@@ -2,9 +2,7 @@
 
 This repository contains the source code for a machine learning model designed to detect hateful content in memes. The model uses a multimodal approach, analyzing both the image content and the extracted text to make a more accurate and context-aware classification.
 
-![Screenshot of the model's output or architecture diagram](https://via.placeholder.com/800x400.png?text=Add+Screenshot+of+Model+Output+or+Architecture)
 
----
 
 ### 🧠 Motivation & Problem Statement
 
